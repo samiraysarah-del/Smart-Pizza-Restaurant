@@ -209,7 +209,7 @@ namespace Smart_Pizza_Restaurant
                         Console.WriteLine($"Salad Type1: {saladType1}");
                         Console.WriteLine($"Fries Type1: {friesType1}");
                         Console.WriteLine($"Price Cold Drink1: ${priceColdDrink1}");
-                        Console.WriteLine($"Price Salad Type2: ${priceSaladType1}");
+                        Console.WriteLine($"Price Salad Type1: ${priceSaladType1}");
                         Console.WriteLine($"Price Fries Type1: ${priceFriesType1}");
                         Console.WriteLine($"Count Pizza Type1: {countPizzaType1}");
                         Console.WriteLine($"Count Cold Drink1: {countColdDrink1}");
@@ -217,7 +217,7 @@ namespace Smart_Pizza_Restaurant
                         Console.WriteLine($"Count Fries Type1: {countFriesType1}");
                         Console.WriteLine($"Price1: ${price1}");
                         Console.WriteLine($"Price Pizza1: ${pricePizza1}");
-                        Console.WriteLine($"Discount1: {discount1}");
+                        Console.WriteLine($"Discount1: ${discount1}");
                         Console.WriteLine($"Is Available1: {isAvailable1}");
 
 
@@ -238,7 +238,7 @@ namespace Smart_Pizza_Restaurant
                         Console.WriteLine($"Count Fries Type2: {countFriesType2}");
                         Console.WriteLine($"Price2: ${price2}");
                         Console.WriteLine($"Price Pizza2: ${pricePizza2}");
-                        Console.WriteLine($"Discount2: {discount2}");
+                        Console.WriteLine($"Discount2: ${discount2}");
                         Console.WriteLine($"Is Available2: {isAvailable2}");
 
 
@@ -259,7 +259,7 @@ namespace Smart_Pizza_Restaurant
                         Console.WriteLine($"Count Fries Type3: {countFriesType3}");
                         Console.WriteLine($"Price3: ${price3}");
                         Console.WriteLine($"Price Pizza3: ${pricePizza3}");
-                        Console.WriteLine($"Discount3: {discount3}");
+                        Console.WriteLine($"Discount3: ${discount3}");
                         Console.WriteLine($"Is Available3: {isAvailable3}");
 
                         break;
